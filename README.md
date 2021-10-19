@@ -1,10 +1,11 @@
-<h2>This is a clone for Tier e-scooter app. Just for learning purpose. No intent for commercial use.</h2>
+<h2>This is a clone for Tier e-scooter app created using react native. Just for learning purpose. No intent for commercial use.</h2>
 <img src="screenshots/1.PNG" width="350">
 
 <img src="screenshots/2.PNG" width="350">
 
 <img src="screenshots/3.PNG" width="350">
 
+<h2>QR code scanner</h2>
 <img src="screenshots/4.PNG" width="350">
 
 
